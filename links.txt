@@ -1,0 +1,33 @@
+https://www.nbshare.io/notebook/751082217/Activation-Functions-In-Python/
+https://www.kaggle.com/code/sanketshrikantpatil/neural-network/notebook
+
+
+
+
+
+
+
+Important : 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html#
+https://www.kaggle.com/code/timniven/feedforward-neural-network-tutorial
+https://www.youtube.com/@deeplizard
+
+
+
+
+
+Learning : 
+https://course.fast.ai/Lessons/lesson1.html
+
+
+
+
+
+
+image processing dataset : 
+https://www.kaggle.com/code/msahebi/pytorch-neural-network-classification-cat-and-dog/data
+
+
+voice recognition Dataset:
+https://www.kaggle.com/code/kuntaldas599/emotional-speech-classification2d/data
+
